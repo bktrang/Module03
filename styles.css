@@ -19,8 +19,8 @@ section {
     background-color: rgb(252, 243, 233);
     text-align: justify;
     margin-bottom: 15px;
-    border: 2px solid darkgreen;
-    border-left: 30px solid darkgreen;
+    border: 2px solid darkblue;
+    border-left: 30px solid darkblue;
     padding: 5px;
     padding-left: 15px;
 }
@@ -47,7 +47,7 @@ aside {
     margin-left: 50px;
     float: right;
     text-align: right;
-    border-right: 15px solid darkslateblue;
+    border-right: 15px solid orange;
 }
 
 aside::first-line {
